@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02b445fa9153becf938a44c3db13e42e",
+    "revision": "7e6d94051b4abde997991ef640f6dc15",
     "url": "/melp-reviews/index.html"
   },
   {
-    "revision": "272d2199c0bfef1d883b",
+    "revision": "8097c48fa831d239cbbc",
     "url": "/melp-reviews/static/css/main.a79dc2be.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/melp-reviews/static/js/2.96a428cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "272d2199c0bfef1d883b",
-    "url": "/melp-reviews/static/js/main.85ca86ec.chunk.js"
+    "revision": "8097c48fa831d239cbbc",
+    "url": "/melp-reviews/static/js/main.a433273b.chunk.js"
   },
   {
     "revision": "6ed9cd5c924906ab1ff9",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/melp-reviews/static/css/main.a79dc2be.chunk.css",
-    "main.js": "/melp-reviews/static/js/main.85ca86ec.chunk.js",
-    "main.js.map": "/melp-reviews/static/js/main.85ca86ec.chunk.js.map",
+    "main.js": "/melp-reviews/static/js/main.a433273b.chunk.js",
+    "main.js.map": "/melp-reviews/static/js/main.a433273b.chunk.js.map",
     "runtime-main.js": "/melp-reviews/static/js/runtime-main.3475b461.js",
     "runtime-main.js.map": "/melp-reviews/static/js/runtime-main.3475b461.js.map",
     "static/js/2.96a428cd.chunk.js": "/melp-reviews/static/js/2.96a428cd.chunk.js",
     "static/js/2.96a428cd.chunk.js.map": "/melp-reviews/static/js/2.96a428cd.chunk.js.map",
     "index.html": "/melp-reviews/index.html",
-    "precache-manifest.f51ca3d80d46507d99a0154352035fea.js": "/melp-reviews/precache-manifest.f51ca3d80d46507d99a0154352035fea.js",
+    "precache-manifest.7ce39043400477d4c2dda7d761ccfc35.js": "/melp-reviews/precache-manifest.7ce39043400477d4c2dda7d761ccfc35.js",
     "service-worker.js": "/melp-reviews/service-worker.js",
     "static/css/main.a79dc2be.chunk.css.map": "/melp-reviews/static/css/main.a79dc2be.chunk.css.map",
     "static/js/2.96a428cd.chunk.js.LICENSE.txt": "/melp-reviews/static/js/2.96a428cd.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.3475b461.js",
     "static/js/2.96a428cd.chunk.js",
     "static/css/main.a79dc2be.chunk.css",
-    "static/js/main.85ca86ec.chunk.js"
+    "static/js/main.a433273b.chunk.js"
   ]
 }
