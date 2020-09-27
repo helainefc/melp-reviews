@@ -8,6 +8,7 @@ import { CgWebsite } from "react-icons/cg";
 import { HiOutlineMail } from "react-icons/hi";
 import { FiPhoneCall } from "react-icons/fi";
 import Starts from "../components/Starts"
+import SocialMediaButtons from "../components/SocialMediaButtons";
 
 export default class SingleRestaurant extends Component {
   constructor(props) {
@@ -75,6 +76,9 @@ export default class SingleRestaurant extends Component {
               <h6> street : {address['street']}</h6>
             </article>
           </div>
+        </section>
+        <section className="restaurant-extras">
+        <h6><SocialMediaButtons restaurant={restaurant}/></h6>
         </section>
       </>
     );
