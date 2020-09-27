@@ -29,7 +29,7 @@ export default class SingleRestaurant extends Component {
       return (
         <div className="error">
           <h3> no such restaurant could be found...</h3>
-          <Link to="/" className="btn-primary">
+          <Link to={process.env.PUBLIC_URL+"/"} className="btn-primary">
             back to Home
           </Link>
         </div>
@@ -46,7 +46,7 @@ export default class SingleRestaurant extends Component {
       <>
         <Hero hero="restaurantsHero">
           <Banner title={`${name} restaurant`}>
-            <Link to="/" className="btn-primary">
+            <Link to={process.env.PUBLIC_URL+"/"} className="btn-primary">
               back to home
             </Link>
           </Banner>

@@ -14,9 +14,9 @@ function App() {
       <Navbar />
       <Switch>
 
-        <Route exact path="/" component={Restaurants} />
-        <Route exact path="/restaurants/" component={Restaurants} />
-        <Route exact path="/restaurants/:slug" component={SingleRestaurant} />
+        <Route exact path={process.env.PUBLIC_URL + '/'} component={Restaurants} />
+        <Route exact path={process.env.PUBLIC_URL +"/restaurants/"} component={Restaurants} />
+        <Route exact path={process.env.PUBLIC_URL+"/restaurants/:slug"} component={SingleRestaurant} />
         <Route component={Error} />
       </Switch>
     </>

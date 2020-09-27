@@ -18,7 +18,7 @@ const Restaurant = memo(({ restaurant }) => {
           <Starts rating={rating} />
           </h6>
         </div>
-        <Link to={`/restaurants/${id}`} className="btn-primary restaurant-link">
+        <Link to={process.env.PUBLIC_URL +`/restaurants/${id}`} className="btn-primary restaurant-link">
           Detail
         </Link>
       </div>
