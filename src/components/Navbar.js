@@ -25,7 +25,7 @@ export default class Navbar extends Component {
             className={this.state.isOpen ? "nav-links show-nav" : "nav-links"}
           >
             <li>
-              <Link to="/">Home</Link>
+              <Link to={process.env.PUBLIC_URL + '/'}>Home</Link>
             </li>
           </ul>
         </div>
