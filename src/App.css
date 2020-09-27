@@ -470,3 +470,9 @@ h6 {
   }
 }
 /* end of restaurants fitler*/
+/*Facebook share*/
+.facebook-img {
+  width: 15%;
+  display: block;
+}
+/*end of Facebook share*/
